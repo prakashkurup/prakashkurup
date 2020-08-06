@@ -13,7 +13,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go.png" />
 
 <br />
 <br />
@@ -23,8 +26,8 @@
 ### 📺 Project YouTube Videos
 <!-- YOUTUBE:START -->
 - [VR Robot - Teleoperated Robot via Virtual Reality](https://www.youtube.com/watch?v=h59VCsJAAD8)
-- [Fish controller robot car!!](https://www.youtube.com/watch?v=y4z0cLZsiMY)
-- [Twitter Sentiment Analysis with geolocation](https://youtu.be/5opyFOwq-nc?t=251)
+- [Fish Controlled Robot Car](https://www.youtube.com/watch?v=y4z0cLZsiMY)
+- [Twitter Sentiment Analysis with Geolocation](https://youtu.be/5opyFOwq-nc?t=251)
 <!-- YOUTUBE:END -->
 
 ---
