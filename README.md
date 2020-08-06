@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashkurup&show_icons=true&theme=dracula" />
+<img align="left" alt="Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashkurup&show_icons=true&theme=radical" />
 
 [twitter]: https://twitter.com/prakashkurup7
 [youtube]: https://youtube.com/prakashkurup7
