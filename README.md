@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working at Microsoft Azure!
 - 🌱 I’m currently learning everything 🤣
-- 🚀 I use daily: Go, Python, Azure, 
 
 ### Connect with me:
 
