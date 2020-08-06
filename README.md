@@ -1,6 +1,10 @@
 ### Hi there, I'm Prakash 👋
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently working at Microsoft Azure!
 - 🌱 I’m currently learning everything 🤣
+- 🚀 I use daily: Go, Python, Azure, 
 
 ### Connect with me:
 
@@ -11,9 +15,9 @@
 
 <br />
 
-### Languages and Tools:
+### Programming Languages:
 
-<img align="left" alt="C" width="48px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
+<img align="left" alt="C" height="48px" width="48px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
 <img align="left" alt="C++" width="48px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
 <img align="left" alt="Python" width="48px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
 <img align="left" alt="Golang" width="48px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go.png" />
@@ -32,7 +36,7 @@
 
 ---
 
-<img align="left" alt="Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashkurup&show_icons=true&hide_border=true" />
+<img align="left" alt="Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashkurup&show_icons=true&theme=dracula" />
 
 [twitter]: https://twitter.com/prakashkurup7
 [youtube]: https://youtube.com/prakashkurup7
